@@ -1,0 +1,66 @@
+@import "../../styles//common.scss";
+
+/***** TYPOGRAPHY *****/
+.cartUpper {
+  text-transform: uppercase;
+}
+
+/***** SPACING *****/
+.cartML3 {
+  margin-left: 0.875em;
+}
+
+.OrderItem {
+  width: 100%;
+  border-bottom: 1px solid $faintGray;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.orderImg {
+  width: 100%;
+  max-width: 128px;
+  height: 128px;
+  background: #f7f5f4;
+
+  img {
+    width: 100%;
+  }
+}
+
+.orderDetails {
+  width: 80%;
+  padding-left: 1.5em;
+}
+
+.orderItemTitle {
+  margin-bottom: 0.45em;
+  .subHeader {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.1875rem;
+  }
+
+  h5 {
+    font-size: 1.125rem;
+  }
+}
+
+.cartItemPrice {
+  font-size: 1.125rem;
+  font-weight: 300;
+}
+
+.orderItemOptions {
+  .availability {
+    color: #27a54c;
+  }
+}
+
+.orderItemSubtotal {
+}

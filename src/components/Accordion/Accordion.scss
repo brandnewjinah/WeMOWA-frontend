@@ -1,0 +1,33 @@
+.Accordion {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.accorTab {
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid;
+}
+
+.tab:hover,
+.active {
+  background: lightcoral;
+}
+
+.content {
+  transition: all 0.5s ease-in-out;
+  height: 0;
+  overflow: hidden;
+}
+
+.content p {
+  padding: 10px;
+}
+
+.showContent {
+  height: 70px;
+  overflow-y: scroll;
+}

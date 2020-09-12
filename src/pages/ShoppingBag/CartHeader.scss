@@ -1,0 +1,22 @@
+@import "../../styles//common.scss";
+
+.CartHeader {
+  width: 100%;
+  max-width: 1360px;
+  text-align: center;
+  margin: 0 auto 2.5em;
+
+  .subHeader {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.1875rem;
+  }
+
+  .headerText {
+    font-size: 1.125rem;
+    font-weight: 300;
+    letter-spacing: 0.025rem;
+    margin: 0.35em 0 1em;
+  }
+}

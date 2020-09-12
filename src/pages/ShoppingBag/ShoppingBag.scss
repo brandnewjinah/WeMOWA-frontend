@@ -1,0 +1,66 @@
+@import "../../styles//common.scss";
+
+.ShoppingBag {
+  width: 100vw;
+}
+
+.cartHeader {
+  width: 100%;
+  max-width: 1360px;
+  text-align: center;
+  margin: 0 auto 2.5em;
+
+  .subHeader {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.1875rem;
+  }
+
+  .headerText {
+    font-size: 1.125rem;
+    font-weight: 300;
+    letter-spacing: 0.025rem;
+    margin: 0.35em 0 1em;
+  }
+}
+
+.cartShopBtn {
+  button {
+    width: 10%;
+  }
+}
+
+.cartMain {
+  width: 100%;
+  max-width: 1360px;
+  margin: 0 auto;
+}
+
+.cartLeft {
+  width: 65%;
+}
+
+.cartItem {
+  padding-right: 3em;
+}
+
+.cartRight {
+  width: 33%;
+}
+
+@media screen and (max-width: 1023px) {
+  .cartMain {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .cartRight {
+    width: 100%;
+  }
+
+  .cartLeft {
+    width: 100%;
+    padding-left: 2em;
+  }
+}

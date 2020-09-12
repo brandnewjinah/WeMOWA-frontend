@@ -1,0 +1,53 @@
+.CheckOutDelivery {
+  .deliveryOptions {
+    padding-bottom: 2em;
+    h2 {
+      padding: 2em 0 1em;
+      font-weight: 600;
+      font-size: 1.2rem;
+    }
+    span {
+      font-size: 0.9rem;
+      color: #454545;
+    }
+
+    .shippingFee {
+      padding-top: 1.3em;
+      .shippingFeeBox {
+        width: 65%;
+        border: 1px solid #000;
+        border-radius: 0.2rem;
+        background-color: #f7f5f4;
+        padding: 1em;
+        font-weight: 200;
+
+        .shippingFeeBox-text1 {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+      }
+    }
+  }
+
+  .deliveryBtn {
+    width: 100%;
+    padding: 2em 0 5em;
+    border-top: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+
+    button {
+      width: 65%;
+      background-color: #0c67e7;
+      padding: 1em 0;
+      border-radius: 0.2rem;
+      border-style: none;
+
+      span {
+        font-size: 0.6rem;
+        letter-spacing: 0.15rem;
+        color: white;
+      }
+    }
+  }
+}

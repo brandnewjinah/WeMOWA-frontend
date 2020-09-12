@@ -1,0 +1,61 @@
+@import "../../styles//common.scss";
+
+.CartTotal {
+  width: 100%;
+  font-size: 1.125rem;
+  font-weight: 300;
+  letter-spacing: 0.05rem;
+  background: #f7f5f4;
+  padding: 2em;
+}
+
+.ctSubtotal {
+  margin: 1em 0;
+
+  .left {
+    text-align: left;
+  }
+  .right {
+    text-align: right;
+  }
+}
+
+.ctShipping {
+  margin: 1em 0;
+  .left {
+    text-align: left;
+  }
+  .right {
+    text-align: right;
+  }
+}
+
+.ctEstTotal {
+  margin: 1em 0;
+  .left {
+    text-align: left;
+  }
+  .right {
+    text-align: right;
+  }
+}
+
+.ctCheckoutBtn {
+  background-color: #0c67e7;
+  border: none;
+  letter-spacing: 0.075rem;
+  margin: 1em 0;
+}
+
+.ctContinueBtn {
+  background-color: transparent;
+  border-color: rgba($color: #000000, $alpha: 0.3);
+  color: black;
+  letter-spacing: 0.075rem;
+  margin: 1em 0;
+}
+
+.ctContinueBtn:hover {
+  color: rgb(138, 138, 138);
+  transition: 0.2s ease-in-out;
+}

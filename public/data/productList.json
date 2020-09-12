@@ -1,0 +1,1212 @@
+{
+  "data": [
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin S",
+      "product_id": 6,
+      "product_number": "92552034",
+      "price": "820.00",
+      "luggage_color": "Titanium",
+      "series_color": [
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw481e576d/images/large/92552034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd66a68fd/images/large/92552034_2.png"
+        },
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1faf195d/images/swatch/black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw314d0f63/images/large/92552014_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3b2083dc/images/large/92552014_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin Plus",
+      "product_id": 24,
+      "product_number": "92556034",
+      "price": "920.00",
+      "luggage_color": "Titanium",
+      "series_color": [
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe6a3fb3e/images/large/92556034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw623eb2be/images/large/92556034_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin S",
+      "product_id": 11,
+      "product_number": "88352634",
+      "price": "610.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw632ad880/images/large/88352634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe1bdd457/images/large/88352634_2.png"
+        },
+        {
+          "name": "All-Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw38999be5/images/swatch/allblack_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwef50bb76/images/large/88352674_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0bbd30f5/images/large/88352674_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin S",
+      "product_id": 17,
+      "product_number": "88352674",
+      "price": "610.00",
+      "luggage_color": "All-Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw632ad880/images/large/88352634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe1bdd457/images/large/88352634_2.png"
+        },
+        {
+          "name": "All-Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw38999be5/images/swatch/allblack_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwef50bb76/images/large/88352674_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0bbd30f5/images/large/88352674_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin Plus",
+      "product_id": 20,
+      "product_number": "88356634",
+      "price": "690.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3a0c2658/images/large/88356634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4521ad78/images/large/88356634_2.png"
+        },
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_bluegrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe4716c0/images/large/88356614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbec6e643/images/large/88356614_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw51d6ac0e/images/large/88356624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw810883f5/images/large/88356624_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Trunk Plus",
+      "product_id": 8,
+      "product_number": "83280614",
+      "price": "840.00",
+      "luggage_color": "Matte Blue",
+      "series_color": [
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6e6a5959/images/swatch/blue_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbd8f65ee/images/large/83280614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd8e1a29c/images/large/83280614_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 10,
+      "product_number": "83253604",
+      "price": "530.00",
+      "luggage_color": "Blue Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Trunk",
+      "product_id": 12,
+      "product_number": "83275664",
+      "price": "790.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6ab2276d/images/large/83275664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw68cc3d32/images/large/83275664_2.png"
+        },
+        {
+          "name": "Red Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaabe9578/images/swatch/red_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb2ce7440/images/large/83275654_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3eaeedf9/images/large/83275654_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin Plus",
+      "product_id": 15,
+      "product_number": "83256624",
+      "price": "580.00",
+      "luggage_color": "Black Gloss",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2551d0ca/images/large/83256624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1169780f/images/large/83256624_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3fb61924/images/large/83256664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1867e39c/images/large/83256664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Check-In M",
+      "product_id": 19,
+      "product_number": "83263614",
+      "price": "630.00",
+      "luggage_color": "Matte Blue",
+      "series_color": [
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6e6a5959/images/swatch/blue_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb1ea743f/images/large/83263614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa8197ad9/images/large/83263614_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Trunk",
+      "product_id": 22,
+      "product_number": "83275654",
+      "price": "790.00",
+      "luggage_color": "Red Gloss",
+      "series_color": [
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6ab2276d/images/large/83275664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw68cc3d32/images/large/83275664_2.png"
+        },
+        {
+          "name": "Red Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaabe9578/images/swatch/red_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb2ce7440/images/large/83275654_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3eaeedf9/images/large/83275654_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin Plus",
+      "product_id": 23,
+      "product_number": "83256664",
+      "price": "580.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2551d0ca/images/large/83256624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1169780f/images/large/83256624_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3fb61924/images/large/83256664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1867e39c/images/large/83256664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Cabin S",
+      "product_id": 7,
+      "product_number": "82352604",
+      "price": "400.00",
+      "luggage_color": "Blue Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9daafa21/images/large/82352604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw415dff54/images/large/82352604_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd4ad9b33/images/large/82352644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd828d43d/images/large/82352644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Cabin S",
+      "product_id": 13,
+      "product_number": "82352644",
+      "price": "400.00",
+      "luggage_color": "Green Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9daafa21/images/large/82352604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw415dff54/images/large/82352604_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd4ad9b33/images/large/82352644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd828d43d/images/large/82352644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Check-In M",
+      "product_id": 14,
+      "product_number": "82363644",
+      "price": "500.00",
+      "luggage_color": "Green Gloss",
+      "series_color": [
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6b5f46e1/images/large/82363644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dweb72a4b7/images/large/82363644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "DIOR AND RIMOWA",
+      "name": "Hand Case",
+      "product_id": 9,
+      "product_number": "92590036",
+      "price": "2700.00",
+      "luggage_color": "Gradient Blue",
+      "series_color": [
+        {
+          "name": "Gradient Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc0102692/images/swatch/gradient_blue.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfb243648/images/large/92590036_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw84946b3b/images/large/92590036_2.png"
+        },
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw970d1792/images/swatch/dior_black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw818fff1a/images/large/92590037_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4bd95ad2/images/large/92590037_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "DIOR AND RIMOWA",
+      "name": "Hand Case",
+      "product_id": 16,
+      "product_number": "92590037",
+      "price": "2400.00",
+      "luggage_color": "Black",
+      "series_color": [
+        {
+          "name": "Gradient Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc0102692/images/swatch/gradient_blue.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfb243648/images/large/92590036_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw84946b3b/images/large/92590036_2.png"
+        },
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw970d1792/images/swatch/dior_black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw818fff1a/images/large/92590037_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4bd95ad2/images/large/92590037_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "DIOR AND RIMOWA",
+      "name": "Personal",
+      "product_id": 18,
+      "product_number": "99090003",
+      "price": "1900.00",
+      "luggage_color": "Pink",
+      "series_color": [
+        {
+          "name": "Pink",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwed39e48b/images/swatch/swatch_pink_personal.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc2194654/images/large/99090003_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf8a965a3/images/large/99090003_2.png"
+        },
+        {
+          "name": "Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw19268378/images/swatch/swatch_blue_personal.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7918ff36/images/large/99090004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4f49f924/images/large/99090004_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "DIOR AND RIMOWA",
+      "name": "Personal",
+      "product_id": 21,
+      "product_number": "99090004",
+      "price": "1900.00",
+      "luggage_color": "Blue",
+      "series_color": [
+        {
+          "name": "Pink",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwed39e48b/images/swatch/swatch_pink_personal.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc2194654/images/large/99090003_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf8a965a3/images/large/99090003_2.png"
+        },
+        {
+          "name": "Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw19268378/images/swatch/swatch_blue_personal.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7918ff36/images/large/99090004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4f49f924/images/large/99090004_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Check-In L",
+      "product_id": 29,
+      "product_number": "92573034",
+      "price": "1090.00",
+      "luggage_color": "Titanium",
+      "series_color": [
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw74f037c0/images/large/92573034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf8b2f6d7/images/large/92573034_2.png"
+        },
+        {
+          "name": "Marine",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw63c14d15/images/swatch/marine_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe9e76ad/images/large/92573054_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5e23c1a0/images/large/92573054_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Check-In L",
+      "product_id": 30,
+      "product_number": "92573054",
+      "price": "1090.00",
+      "luggage_color": "Marine",
+      "series_color": [
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw74f037c0/images/large/92573034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf8b2f6d7/images/large/92573034_2.png"
+        },
+        {
+          "name": "Marine",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw63c14d15/images/swatch/marine_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe9e76ad/images/large/92573054_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5e23c1a0/images/large/92573054_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin",
+      "product_id": 32,
+      "product_number": "92553014",
+      "price": "840.00",
+      "luggage_color": "Black",
+      "series_color": [
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1faf195d/images/swatch/black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5a9118eb/images/large/92553014_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c4acca4/images/large/92553014_2.png"
+        },
+        {
+          "name": "Silver",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw052769f9/images/swatch/silver.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw27d7440d/images/large/92553004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwde5aaedf/images/large/92553004_2.png"
+        },
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c376044/images/large/92553034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4225176b/images/large/92553034_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin",
+      "product_id": 39,
+      "product_number": "92553004",
+      "price": "840.00",
+      "luggage_color": "Silver",
+      "series_color": [
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1faf195d/images/swatch/black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5a9118eb/images/large/92553014_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c4acca4/images/large/92553014_2.png"
+        },
+        {
+          "name": "Silver",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw052769f9/images/swatch/silver.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw27d7440d/images/large/92553004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwde5aaedf/images/large/92553004_2.png"
+        },
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c376044/images/large/92553034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4225176b/images/large/92553034_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Trunk XL",
+      "product_id": 41,
+      "product_number": "92585004",
+      "price": "1530.00",
+      "luggage_color": "Silver",
+      "series_color": [
+        {
+          "name": "Silver",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw052769f9/images/swatch/silver.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd17c0765/images/large/92585004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8613f24b/images/large/92585004_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin",
+      "product_id": 42,
+      "product_number": "92553034",
+      "price": "840.00",
+      "luggage_color": "Titanium",
+      "series_color": [
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1faf195d/images/swatch/black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5a9118eb/images/large/92553014_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c4acca4/images/large/92553014_2.png"
+        },
+        {
+          "name": "Silver",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw052769f9/images/swatch/silver.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw27d7440d/images/large/92553004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwde5aaedf/images/large/92553004_2.png"
+        },
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c376044/images/large/92553034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4225176b/images/large/92553034_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "CLASSIC",
+      "name": "Cabin",
+      "product_id": 38,
+      "product_number": "97253004",
+      "price": "790.00",
+      "luggage_color": "Silver",
+      "series_color": [
+        {
+          "name": "Silver",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw052769f9/images/swatch/silver.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0d1d8d74/images/large/97253004_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw348b99ae/images/large/97253004_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin",
+      "product_id": 26,
+      "product_number": "88353624",
+      "price": "630.00",
+      "luggage_color": "Black Gloss",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw75b83ca9/images/large/88353624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa1636c94/images/large/88353624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd0a124a1/images/large/88353634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd4cb2b9a/images/large/88353634_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin Plus",
+      "product_id": 28,
+      "product_number": "88356614",
+      "price": "690.00",
+      "luggage_color": "Matte Blue",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3a0c2658/images/large/88356634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4521ad78/images/large/88356634_2.png"
+        },
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_bluegrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe4716c0/images/large/88356614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbec6e643/images/large/88356614_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw51d6ac0e/images/large/88356624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw810883f5/images/large/88356624_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Check-In L",
+      "product_id": 36,
+      "product_number": "88373634",
+      "price": "820.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0f1867a3/images/large/88373634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa5867f94/images/large/88373634_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 25,
+      "product_number": "83253864",
+      "price": "530.00",
+      "luggage_color": "Saffron Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 27,
+      "product_number": "83253624",
+      "price": "530.00",
+      "luggage_color": "Black Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Check-In L",
+      "product_id": 33,
+      "product_number": "83273864",
+      "price": "680.00",
+      "luggage_color": "Saffron Gloss",
+      "series_color": [
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcb6a69ad/images/large/83273864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7a88315d/images/large/83273864_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin S",
+      "product_id": 34,
+      "product_number": "83252604",
+      "price": "500.00",
+      "luggage_color": "Blue Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0aa62a75/images/large/83252604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwff6140ff/images/large/83252604_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfef1f163/images/large/83252664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwee5631a3/images/large/83252664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 35,
+      "product_number": "83253634",
+      "price": "530.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Check-In L",
+      "product_id": 31,
+      "product_number": "82373624",
+      "price": "550.00",
+      "luggage_color": "Black Gloss",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw56cfab9c/images/large/82373624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8826db50/images/large/82373624_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa891e800/images/large/82373664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw820796eb/images/large/82373664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL SLEEVE",
+      "name": "Cabin",
+      "product_id": 37,
+      "product_number": "84253634",
+      "price": "610.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf35ca77/images/large/84253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb6639801/images/large/84253634_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL SLEEVE",
+      "name": "Cabin Plus",
+      "product_id": 40,
+      "product_number": "84256634",
+      "price": "660.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw25b343cb/images/large/84256634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw07e8ce5a/images/large/84256634_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Trunk Plus",
+      "product_id": 47,
+      "product_number": "92580054",
+      "price": "1420.00",
+      "luggage_color": "Marine",
+      "series_color": [
+        {
+          "name": "Marine",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw63c14d15/images/swatch/marine_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw51dce261/images/large/92580054_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6bf30192/images/large/92580054_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ORIGINAL",
+      "name": "Cabin S",
+      "product_id": 55,
+      "product_number": "92552014",
+      "price": "820.00",
+      "luggage_color": "Black",
+      "series_color": [
+        {
+          "name": "Titanium",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa63c5831/images/swatch/titanium.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw481e576d/images/large/92552034_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd66a68fd/images/large/92552034_2.png"
+        },
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1faf195d/images/swatch/black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw314d0f63/images/large/92552014_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3b2083dc/images/large/92552014_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin",
+      "product_id": 46,
+      "product_number": "88353634",
+      "price": "630.00",
+      "luggage_color": "Matte Black",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw75b83ca9/images/large/88353624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa1636c94/images/large/88353624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd0a124a1/images/large/88353634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd4cb2b9a/images/large/88353634_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Cabin Plus",
+      "product_id": 48,
+      "product_number": "88356624",
+      "price": "690.00",
+      "luggage_color": "Black Gloss",
+      "series_color": [
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_blackgrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3a0c2658/images/large/88356634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4521ad78/images/large/88356634_2.png"
+        },
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_bluegrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe4716c0/images/large/88356614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbec6e643/images/large/88356614_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw51d6ac0e/images/large/88356624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw810883f5/images/large/88356624_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Check-In M",
+      "product_id": 49,
+      "product_number": "88363674",
+      "price": "760.00",
+      "luggage_color": "All-Black",
+      "series_color": [
+        {
+          "name": "All-Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw38999be5/images/swatch/allblack_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd2af0b3d/images/large/88363674_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb6fb9119/images/large/88363674_2.png"
+        },
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_bluegrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdb364972/images/large/88363614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfa43e380/images/large/88363614_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "HYBRID",
+      "name": "Check-In M",
+      "product_id": 54,
+      "product_number": "88363614",
+      "price": "760.00",
+      "luggage_color": "Matte Blue",
+      "series_color": [
+        {
+          "name": "All-Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw38999be5/images/swatch/allblack_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd2af0b3d/images/large/88363674_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb6fb9119/images/large/88363674_2.png"
+        },
+        {
+          "name": "Matte Blue",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb663de53/images/swatch/swatch_bluegrey.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdb364972/images/large/88363614_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfa43e380/images/large/88363614_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin S",
+      "product_id": 51,
+      "product_number": "83252664",
+      "price": "500.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw0aa62a75/images/large/83252604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwff6140ff/images/large/83252604_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfef1f163/images/large/83252664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwee5631a3/images/large/83252664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 52,
+      "product_number": "83253664",
+      "price": "530.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL",
+      "name": "Cabin",
+      "product_id": 53,
+      "product_number": "83253644",
+      "price": "530.00",
+      "luggage_color": "Green Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8c8abc9d/images/large/83253604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26b43298/images/large/83253604_2.png"
+        },
+        {
+          "name": "Saffron Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw58bf9758/images/swatch/saffron_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdaa8d184/images/large/83253864_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw058bda84/images/large/83253864_2.png"
+        },
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw15c351a8/images/large/83253624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa89c1b02/images/large/83253624_2.png"
+        },
+        {
+          "name": "Matte Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1a241ed/images/swatch/black_matte.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc11fa1e/images/large/83253634_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw742a9e38/images/large/83253634_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw81380c95/images/large/83253664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwffb23a85/images/large/83253664_2.png"
+        },
+        {
+          "name": "Green Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9ae0b5c1/images/swatch/green_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwaf7b4033/images/large/83253644_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw18df2f6d/images/large/83253644_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Cabin",
+      "product_id": 43,
+      "product_number": "82353604",
+      "price": "420.00",
+      "luggage_color": "Blue Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwab97366c/images/large/82353604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbad70c33/images/large/82353604_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1937493/images/large/82353664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6da08e19/images/large/82353664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Cabin",
+      "product_id": 44,
+      "product_number": "82353664",
+      "price": "420.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "Blue Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1e00a6e/images/swatch/blue_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwab97366c/images/large/82353604_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwbad70c33/images/large/82353604_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc1937493/images/large/82353664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6da08e19/images/large/82353664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "ESSENTIAL LITE",
+      "name": "Check-In L",
+      "product_id": 50,
+      "product_number": "82373664",
+      "price": "550.00",
+      "luggage_color": "White Gloss",
+      "series_color": [
+        {
+          "name": "Black Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwedd36852/images/swatch/black_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw56cfab9c/images/large/82373624_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8826db50/images/large/82373624_2.png"
+        },
+        {
+          "name": "White Gloss",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw80c54d5d/images/swatch/white_gloss.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa891e800/images/large/82373664_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw820796eb/images/large/82373664_2.png"
+        }
+      ]
+    },
+    {
+      "collection": "DIOR AND RIMOWA",
+      "name": "Cabin",
+      "product_id": 45,
+      "product_number": "92590027",
+      "price": "2900.00",
+      "luggage_color": "Black",
+      "series_color": [
+        {
+          "name": "Black",
+          "color_url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw970d1792/images/swatch/dior_black.png",
+          "product_img1": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwca2bb43e/images/large/92590027_1.png",
+          "product_img2": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb152a935/images/large/92590027_2.png"
+        }
+      ]
+    }
+  ]
+}

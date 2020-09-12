@@ -1,0 +1,176 @@
+@import "../../styles/common.scss";
+
+/***** TYPOGRAPHY *****/
+h1 {
+  font-weight: 300;
+}
+
+.upper {
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+  color: $gray;
+}
+/***** TYPOGRAPHY *****/
+
+.pdpWrapper {
+  width: 100vw;
+}
+
+.pdpTop {
+  width: 100%;
+  max-width: 1360px;
+  margin: 0 auto;
+  height: 50vh;
+}
+
+.productImg {
+  background: coral;
+  width: 50%;
+}
+
+.productDetail {
+  background: aquamarine;
+  margin-top: 2%;
+  width: 50%;
+}
+
+.pdHeader {
+  h1 {
+    margin-top: 0.5em;
+  }
+}
+
+.pdPrice {
+  font-size: 1.325rem;
+  font-weight: 300;
+  margin-top: 0.5em;
+}
+
+.pdSize {
+  background: khaki;
+  height: 10%;
+  margin-top: 2em;
+}
+
+.pdAddToCart {
+  background: gold;
+  max-width: 320px;
+  margin: 1em auto 0;
+}
+
+.pdAvail {
+  background: honeydew;
+  margin-top: 0.25em;
+}
+
+.pdOptions {
+  background: gainsboro;
+  margin-top: 1em;
+}
+
+.pdText {
+  background: lemonchiffon;
+  margin-top: 1em;
+}
+
+.pdAirline {
+  background: lightcyan;
+  margin-top: 1em;
+}
+
+.pdColors {
+  background: lightpink;
+  margin-top: 1em;
+}
+
+/*************** PDP BOTTOM ******************/
+
+.pdpBottom {
+}
+
+.pdpSpecs {
+}
+
+.specHeader {
+  background: mintcream;
+
+  h3 {
+    font-size: 1.75rem;
+  }
+}
+
+.specDetail {
+}
+
+.specImg {
+  padding-left: 4%; /*임의지정*/
+  width: 46%;
+}
+
+.specUnit {
+  background: lime;
+}
+
+.metric {
+  padding-right: 0.5em;
+  border-right: 1px solid $darkGray;
+}
+
+.imperial {
+  padding-left: 0.5em;
+}
+
+.specWire {
+  .wireLeft {
+    border-right: 1px solid $darkGray;
+    position: relative;
+
+    .txtRotate1 {
+      position: absolute;
+      transform: rotate(-90deg);
+      transform-origin: 0 0;
+      margin-left: -50px;
+      margin-top: 221px;
+    }
+
+    .txtRotate2 {
+      position: absolute;
+      transform: rotate(-90deg);
+      transform-origin: 0 0;
+      margin-left: -30px;
+      margin-top: 220px;
+    }
+  }
+
+  .wireCenter {
+    .centerMeasure {
+      border-top: 1px solid $gray;
+    }
+
+    .measure {
+      margin-right: 0.5em;
+    }
+  }
+
+  .wireRight {
+    .measure {
+      margin-right: 0.5em;
+    }
+  }
+}
+
+.specDetails {
+  width: 50%;
+}
+
+.specPN {
+  background: mistyrose;
+}
+
+.pdpKey {
+  background: darkseagreen;
+}
+
+.pdpRecommend {
+  background: darksalmon;
+}
