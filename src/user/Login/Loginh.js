@@ -18,6 +18,7 @@ const Loginh = (props) => {
   const [account, setAccount] = useState({
     email: "",
     password: "",
+    confirm: "",
   });
   const [errors, setErrors] = useState({});
 
