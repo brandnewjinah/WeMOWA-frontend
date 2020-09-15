@@ -1,53 +1,34 @@
 import React, { useState } from "react";
-import axios from "axios";
+import { Signin } from "../services/authService";
 import { withRouter } from "react-router-dom";
 
 //import components
-import Header from "../../components/Header/Header";
-import Nav from "../../components/Nav/Nav";
-import Footer from "../../components/Footer/Footer";
-import { InputField, PwInputField } from "../../components/Forms/Input";
+import Nav from "../components/Nav/Nav";
+import Footer from "../components/Footer/Footer";
+import { InputField, PwInputField } from "../components/Forms/Input";
 
 //import styles and assets
 import styled from "styled-components";
-
-//import data
-import { apiEndpoint } from "../../config";
 
 const Loginh = (props) => {
   const [account, setAccount] = useState({
     email: "",
     password: "",
-    confirm: "",
   });
   const [errors, setErrors] = useState({});
 
-  const validateEach = ({ name, value }) => {
-    if (name === "email") {
-      if (value.trim() === "") {
-        return "Email is required";
-      }
+  const validate = () => {
+    const errors = {};
+    if (account.email === "") {
+      errors.email = "Email is required";
     }
-    if (name === "password") {
-      if (value.trim() === "") {
-        return "Password is required";
-      }
-      if (value.length <= 4) {
-        return "Password must be more than 4 characters";
-      }
+    if (account.password === "") {
+      errors.password = "password is required";
     }
+    return Object.keys(errors).length === 0 ? null : errors;
   };
 
   const handleChange = ({ currentTarget: input }) => {
-    const newerrors = { ...errors };
-    const errorMessage = validateEach(input);
-    if (errorMessage) {
-      newerrors[input.name] = errorMessage;
-    } else {
-      delete newerrors[input.name];
-    }
-    setErrors(newerrors);
-
     const userInput = { ...account };
     userInput[input.name] = input.value;
     setAccount(userInput);
@@ -55,35 +36,32 @@ const Loginh = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
+    const errors = validate();
+    setErrors(errors || {});
+    if (errors) return;
     //call server
-
     postData();
   };
 
   const postData = async () => {
     try {
-      const userData = {
-        email: account.email,
-        password: account.password,
-      };
-      const { data: token } = await axios.post(
-        // "apiEndpoint/account/sign-in",
-        "https://jsonplaceholder.typicode.com/posts",
-        userData
-      );
+      const { data: token } = await Signin(account.email, account.password);
       localStorage.setItem("token", token);
-      console.log(token);
-      props.history.push("/");
-    } catch (error) {
-      if (error.response && error.response.status === 400) {
-        alert("Invalid User");
+      // props.history.push("/");
+      window.location = "/";
+    } catch (ex) {
+      if (ex.response && ex.response.status === 400) {
+        alert("invalid user");
       }
     }
   };
 
+  const handleRegister = () => {
+    props.history.push("/register");
+  };
+
   return (
     <Wrapper>
-      <Header />
       <Nav />
       <Container>
         <Section>
@@ -93,23 +71,26 @@ const Loginh = (props) => {
             existing details for a speedier checkout.
           </p>
           <form onSubmit={handleSubmit}>
-            <InputField
-              name="email"
-              error={errors.email}
-              placeholder="Email Address*"
-              type="text"
-              value={account.email}
-              handleChange={handleChange}
-            />
-            <PwInputField
-              name="password"
-              error={errors.password}
-              placeholder="Password*"
-              value={account.password}
-              handleChange={handleChange}
-            />
-
-            <button>Register</button>
+            <Row>
+              <InputField
+                name="email"
+                error={errors.email}
+                placeholder="Email Address*"
+                type="text"
+                value={account.email}
+                handleChange={handleChange}
+              />
+            </Row>
+            <Row>
+              <PwInputField
+                name="password"
+                error={errors.password}
+                placeholder="Password*"
+                value={account.password}
+                handleChange={handleChange}
+              />
+            </Row>
+            <button>Sign In</button>
           </form>
         </Section>
         <Section>
@@ -122,7 +103,9 @@ const Loginh = (props) => {
             <li>TRACK YOUR ORDERS</li>
             <li>REGISTER MY RIMOWA</li>
           </ul>
-          <button className="createAccBtn">Create Account</button>
+          <button className="createAccBtn" onClick={handleRegister}>
+            Create Account
+          </button>
         </Section>
       </Container>
       <Footer />
@@ -142,6 +125,10 @@ const Container = styled.div`
   max-width: 1360px;
   font-family: "Work Sans", sans-serif;
   margin: 0 auto;
+`;
+
+const Row = styled.div`
+  margin: 2em 0;
 `;
 
 const Section = styled.div`
