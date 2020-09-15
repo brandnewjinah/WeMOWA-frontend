@@ -23,8 +23,9 @@ class Nav extends Component {
   };
 
   dropMenucheck = (num) => {
-    this.setState({ menuChacked: true, id: num, component: navMenu[num] }, () =>
-      console.log(this.state.menuChacked, this.state.id)
+    this.setState(
+      { menuChacked: true, id: num, component: navMenu[num] }
+      // () => console.log(this.state.menuChacked, this.state.id)
     );
   };
 
